@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "awdBpyQPc8KgMy3i5BNbD7IC7JMYId1OoXRLvQEJ9gM=",
+  "Source": "azure-pipelines-remote-tasks",
+  "BasePath": "_content/azure-pipelines-remote-tasks",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
